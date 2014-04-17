@@ -1,4 +1,3 @@
-
 #linux中KVM桥接网卡br0
 
 在centos虚拟化当中需要增加一个桥接网卡，然后将虚拟化当中的机器的网卡桥接到桥接网卡，下面将描述设置方法：
@@ -60,3 +59,5 @@
 配置完成后：
 
 ![tu](http://fmn.rrimg.com/fmn062/20140121/1420/b_large_UeNP_5d1e000106101262.jpg)
+
+![tu](https://github.com/zphj1987/myalldoc/blob/master/picture/jietu.jpg)

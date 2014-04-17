@@ -59,5 +59,3 @@
 配置完成后：
 
 ![tu](http://fmn.rrimg.com/fmn062/20140121/1420/b_large_UeNP_5d1e000106101262.jpg)
-
-![tu](https://github.com/zphj1987/myalldoc/blob/master/picture/jietu.jpg)

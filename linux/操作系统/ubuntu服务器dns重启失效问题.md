@@ -45,3 +45,15 @@
 	nameserver 8.8.4.4
 
 保存就生效了，重启也没问题。
+
+---
+>文档编写人：张鹏  
+	
+>有问题联系： 199383004@qq.com
+	
+>转发请标明转自：
+	 	https://github.com/zphj1987/myalldoc
+	
+>请我喝杯咖啡点击：	[支付宝支持](https://me.alipay.com/zphj1987)
+
+---

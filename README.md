@@ -21,10 +21,21 @@
 		*  ssh配好无密码登录（RSA公钥）后，还要密码登录的问题的解决
 		* ubuntu掉电出现检查文件系统的问题
 		* ubuntu服务器dns重启失效问题
+		
 	* 网络相关
 		
 		* linux中KVM桥接网卡br0
 		* ubuntu配置bonding
+	
+ 	* 服务相关
+ 		
+	 	* centos做时间同步服务器
+
+	* 内核相关
+	
+		* 编译一个Centos6.4下可用的内核rpm升级包-3.8.13内核rpm包
+
+
 
 
 

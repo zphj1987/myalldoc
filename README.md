@@ -6,6 +6,10 @@
 
 发现别人用这个写的文档看起来很舒服
 
+现在我在 **windows8.1** 下用 **markdownpad2** 写文档用 **github shell** 推送到 **github** 上
+
+熟练了就好，	*share is happy !* 
+
 
 文档目录：
 

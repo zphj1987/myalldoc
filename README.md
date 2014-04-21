@@ -21,15 +21,19 @@
 		* [ssh配好无密码登录（RSA公钥）后，还要密码登录的问题的解决](https://github.com/zphj1987/myalldoc/blob/master/linux/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/ssh%E9%85%8D%E5%A5%BD%E6%97%A0%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95%EF%BC%88RSA%E5%85%AC%E9%92%A5%EF%BC%89%E5%90%8E%EF%BC%8C%E8%BF%98%E8%A6%81%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95%E7%9A%84%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3.md)
 		* [ubuntu掉电出现检查文件系统的问题](https://github.com/zphj1987/myalldoc/blob/master/linux/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/ubuntu%E6%8E%89%E7%94%B5%E5%87%BA%E7%8E%B0%E6%A3%80%E6%9F%A5%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E9%97%AE%E9%A2%98.md)
 		* [ubuntu服务器dns重启失效问题](https://github.com/zphj1987/myalldoc/blob/master/linux/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/ubuntu%E6%9C%8D%E5%8A%A1%E5%99%A8dns%E9%87%8D%E5%90%AF%E5%A4%B1%E6%95%88%E9%97%AE%E9%A2%98.md)
+		* python报错：Bad magic number ImportError in python
+		* 修改centos6启动动画（plymouth方式）
 		
 	* 网络相关
 		
 		* linux中KVM桥接网卡br0
 		* ubuntu配置bonding
+		* centos下多网卡做bond脚本
 	
  	* 服务相关
  		
 	 	* centos做时间同步服务器
+	 	* ubuntu12.10安装sun java jdk
 
 	* 内核相关
 	

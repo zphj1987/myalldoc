@@ -20,7 +20,7 @@ lsyncd 安装后没有自动生成所需要的配置文件和目录，需要手�
 
 添加如下内容：
 
-	settings = {
+	settings  {
 	        logfile = "/var/log/lsyncd/lsyncd.log",
 	        statusFile = "/var/log/lsyncd/lsyncd.status"
 	}
